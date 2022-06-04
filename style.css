@@ -1,0 +1,77 @@
+body { 
+background-color: #ffb703;
+}
+
+#set-timers {
+  text-align: center;
+  margin: auto;
+}
+
+#session-div {
+  float: left;
+  background-color: #003049;
+  width: 35%;
+  font-family: 'Sora', sans-serif;
+  border: solid 5px;
+  border-radius: 5%;
+  font-size: 50px;
+  margin: 5% 5%;
+  color: white;
+}
+
+#break-div {
+  float: left;
+  background-color: #003049;
+  width: 35%;
+  font-family: 'Sora', sans-serif;
+  border: solid 5px;
+  border-radius: 5%;
+  font-size: 50px;
+   margin: 5% 5%;
+    color: white;
+}
+  
+#result {
+  clear: both;
+  width: 50%;
+  text-align: center;
+  font-family: 'Sora', sans-serif;
+   margin: 0 auto;
+  background-color: white;
+  font-size: 50px;
+}
+
+button {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+#title {
+    font-family: 'Sora', sans-serif;
+  text-align: center;
+}
+
+#usefulBtns {
+    clear: both;
+  width: 50%;
+  text-align: center;
+  font-family: 'Sora', sans-serif;
+   margin: 0 auto;
+  background-color: white;
+  font-size: 50px;
+}
+
+#usefulBtns button {
+  width: 50%;
+}
+
+
+
+#restart-btn button:hover {
+  background-color: #ae2012;
+}
+
+#pause-btn button:hover {
+  background-color: #ee9b00;
+}
